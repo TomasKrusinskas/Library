@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\models\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:models\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\services\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:services\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CD732E-A889-412D-9BE9-68A0441C0257}|..\\Backend-API.Tests\\Backend-API.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api.tests\\helpers\\returnsdbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CD732E-A889-412D-9BE9-68A0441C0257}|..\\Backend-API.Tests\\Backend-API.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CD732E-A889-412D-9BE9-68A0441C0257}|..\\Backend-API.Tests\\Backend-API.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api.tests\\controllers\\bookscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CD732E-A889-412D-9BE9-68A0441C0257}|..\\Backend-API.Tests\\Backend-API.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api.tests\\controllers\\reservationscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CD732E-A889-412D-9BE9-68A0441C0257}|..\\Backend-API.Tests\\Backend-API.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api.tests\\backend-api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tomas\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|c:\\users\\tomas\\desktop\\ktu\\library\\backend\\backend-api\\backend-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2714B021-FC04-4716-817B-BFEB2D65F78B}|Backend-API.csproj|solutionrelative:backend-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReturnsDbSet.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Helpers\\ReturnsDbSet.cs",
+              "RelativeDocumentMoniker": "..\\Backend-API.Tests\\Helpers\\ReturnsDbSet.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Helpers\\ReturnsDbSet.cs",
+              "RelativeToolTip": "..\\Backend-API.Tests\\Helpers\\ReturnsDbSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:56:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:41:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "Models\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\ReservationDto.cs",
+              "RelativeToolTip": "Models\\ReservationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:48:45.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\UserDto.cs",
+              "RelativeToolTip": "Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:14:52.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:07:40.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PricingService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Services\\PricingService.cs",
+              "RelativeDocumentMoniker": "Services\\PricingService.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Services\\PricingService.cs",
+              "RelativeToolTip": "Services\\PricingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:42:46.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:42:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Data\\LibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:44:40.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:43:15.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:53:56.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:14:24.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Backend-API.Tests\\Controllers\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeToolTip": "..\\Backend-API.Tests\\Controllers\\AuthControllerTests.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:20:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BooksControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Controllers\\BooksControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Backend-API.Tests\\Controllers\\BooksControllerTests.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Controllers\\BooksControllerTests.cs",
+              "RelativeToolTip": "..\\Backend-API.Tests\\Controllers\\BooksControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:20:31.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservationsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Controllers\\ReservationsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Backend-API.Tests\\Controllers\\ReservationsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Controllers\\ReservationsControllerTests.cs",
+              "RelativeToolTip": "..\\Backend-API.Tests\\Controllers\\ReservationsControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:20:58.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Backend-API.Tests",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Backend-API.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Backend-API.Tests\\Backend-API.Tests.csproj",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API.Tests\\Backend-API.Tests.csproj",
+              "RelativeToolTip": "..\\Backend-API.Tests\\Backend-API.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T12:13:50.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:55:11.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T14:20:04.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:38:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T16:07:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Backend-API.csproj",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Backend-API.csproj",
+              "RelativeDocumentMoniker": "Backend-API.csproj",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\Library\\Backend\\Backend-API\\Backend-API.csproj",
+              "RelativeToolTip": "Backend-API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T16:39:44.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
